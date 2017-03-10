@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/storypub.dev/public_html/app/tpl/tregister.php</file>
+            <file>file:/var/www/storypub.dev/public_html/app/controllers/register.php</file>
+            <file>file:/var/www/storypub.dev/public_html/app/models/mregister.php</file>
+            <file>file:/var/www/storypub.dev/public_html/app/tpl/tlogin.php</file>
+            <file>file:/var/www/storypub.dev/public_html/app/tpl/head_common.php</file>
+            <file>file:/var/www/storypub.dev/public_html/index.php</file>
+            <file>file:/var/www/storypub.dev/public_html/sys/registry.php</file>
+            <file>file:/var/www/storypub.dev/public_html/app/models/mlogin.php</file>
+            <file>file:/var/www/storypub.dev/public_html/app/controllers/home.php</file>
+            <file>file:/var/www/storypub.dev/public_html/app/tpl/thome.php</file>
+            <file>file:/var/www/storypub.dev/public_html/app/views/vhome.php</file>
+            <file>file:/var/www/storypub.dev/public_html/sys/model.php</file>
+            <file>file:/var/www/storypub.dev/public_html/app/tpl/footer_common.php</file>
+            <file>file:/var/www/storypub.dev/public_html/app/models/mhome.php</file>
+            <file>file:/var/www/storypub.dev/public_html/app/tpl/tdashboard.php</file>
+            <file>file:/var/www/storypub.dev/public_html/sys/view.php</file>
+            <file>file:/var/www/storypub.dev/public_html/pub/js/app.js</file>
+            <file>file:/var/www/storypub.dev/public_html/app/controllers/login.php</file>
+        </group>
+    </open-files>
+</project-private>
